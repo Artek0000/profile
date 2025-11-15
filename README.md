@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Artek0000&color=001f42)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Artek0000&show_icons=true&theme=dark)
 
 ## 🔧・Outils
 
