@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Artek0000&color=001f42)
-
 ## 🔍・Statistique GitHub
 
 <div align="center">
